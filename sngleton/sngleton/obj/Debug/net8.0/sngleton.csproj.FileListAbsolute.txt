@@ -1,0 +1,14 @@
+G:\modul\sngleton\sngleton\bin\Debug\net8.0\sngleton.exe
+G:\modul\sngleton\sngleton\bin\Debug\net8.0\sngleton.deps.json
+G:\modul\sngleton\sngleton\bin\Debug\net8.0\sngleton.runtimeconfig.json
+G:\modul\sngleton\sngleton\bin\Debug\net8.0\sngleton.dll
+G:\modul\sngleton\sngleton\bin\Debug\net8.0\sngleton.pdb
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.GeneratedMSBuildEditorConfig.editorconfig
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.AssemblyInfoInputs.cache
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.AssemblyInfo.cs
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.csproj.CoreCompileInputs.cache
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.dll
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\refint\sngleton.dll
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.pdb
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\sngleton.genruntimeconfig.cache
+G:\modul\sngleton\sngleton\obj\Debug\net8.0\ref\sngleton.dll
